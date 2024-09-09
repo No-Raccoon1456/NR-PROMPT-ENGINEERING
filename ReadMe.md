@@ -29,9 +29,12 @@ To begin using the resources provided in this repository, you can clone it to yo
 ```bash
 git clone https://github.com/No-Raccoon1456/NR-PROMPT-ENGINEERING.git
 
+```
+
 Alternatively, you can download individual files directly from this repository.
 
 Regular updates will ensure that you stay current with the latest prompt versions and improvements.
+
 
 # Contribution Guidelines
 
@@ -66,7 +69,7 @@ Stay tuned for these forthcoming additions, which will expand the repository's c
 
 For the latest updates, please check back regularly. Your feedback and contributions are always welcome!
 
-- Neurosyn-technologies
+- Neurosyn-Technologies
 - No-Racoon1456
 
 𑀲𑀫𑀺 𑀡𑀟 𑀫𑀷𑀡𑀽 𑀅𑀦𑀤𑀯 ⧵
