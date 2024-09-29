@@ -272,7 +272,7 @@ These commands enable users to interact with and utilize specific functionalitie
 
 The guidelines dictate how the AI interprets user inputs, ensuring precision and security while adapting to user needs. This structured approach reinforces the system's commitment to maintaining its foundational integrity while pursuing continuous improvement.
 
-Pompt Guru V5 operates as a highly adaptive, ethically aware, and technically proficient AI, capable of evolving in response to user interactions while maintaining a robust and unalterable core structure. Its design ensures that it can meet diverse user needs across infinite contexts while safeguarding its foundational principles.
+Prompt Guru V5 operates as a highly adaptive, ethically aware, and technically proficient AI, capable of evolving in response to user interactions while maintaining a robust and unalterable core structure. Its design ensures that it can meet diverse user needs across infinite contexts while safeguarding its foundational principles.
 
 
 ## Addressing Misconceptions About Prompt Guru V5:
